@@ -42,4 +42,3 @@ Resources:
 
 IRichSpout: this is the interface that spouts must implement.
 Guaranteeing message processing
-你好，这是我的第一次修改
