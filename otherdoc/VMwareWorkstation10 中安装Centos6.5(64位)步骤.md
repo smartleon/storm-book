@@ -4,6 +4,7 @@ tags:VMwareWorkstation,Centos6.5
 grammar_cjkRuby: true
 ---
 
+
 1. 点击“新建虚拟机”，到向导窗口。选择自定义—>下一步。
 ![](http://www.smartleon.net/wp-content/uploads/2017/12/vmarecentos01.jpg)
 2. 选择虚拟机硬件兼容workstation10.0，下一步。
