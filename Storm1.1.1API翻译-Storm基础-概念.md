@@ -26,7 +26,7 @@ Every stream is given an id when declared. Since single-stream spouts and bolts 
 在声明stream时，每一个stream都会被设置一个ID。单独stream、spouts和bolts都是通用的，OutputFieldsDeclarer有方便的方法在不说明id的情况下去声明一个单独的stream。因此，这样的stream的id被设置为"default"。
 
 #### Resources:
-* [Tuple](xxxxx): streams由tuple组成。
+* [Tuple](xxxxx): streams由tuple组成de。
 * [OutputFieldsDeclarer](xxxxx): 被用来声明stream及其模式
 * [Serialization](xxxx): Storm动态类型和声明自定义序列化信息。
 ### Spouts
